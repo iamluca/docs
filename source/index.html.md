@@ -161,6 +161,9 @@ curl "http://discordimages.com/api/uploads"
 
 This endpoint retrieves all uploads.
 
+# Post an Upload
+
+Posts an upload to Discord Images using your account.
 
 ```javascript
  //requiring Main Libraries
