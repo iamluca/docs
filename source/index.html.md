@@ -6,12 +6,10 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
 
 toc_footers:
-  - <a href='#'>Sign Up for a Developer Key</a>
+  - <a href='https://discordimages.com/auth'>Sign Up for a Developer Key</a>
   - <a href='https://discordimages.com/tos'>Terms of Service</a>
   - <a href='https://discordimages.com/privacy'>Privacy Policy</a>
   - <a href='https://discordimages.com'>Docs Powered by Discord Images</a>
- - <a href='https://discord.gg/WdXGj9T'>Support</a>
- - <a href='https://github.com/iamluca/slate'>Contribute to the Docs.</a>
 
 includes:
   - errors
@@ -164,16 +162,14 @@ curl "http://discordimages.com/api/uploads"
 This endpoint retrieves all uploads.
 
 
-```shell
-"Nothing available for documentation on uploading an image via Shell.
-```
-
 ```javascript
  //requiring Main Libraries
- const request = require('request');
+ 
+const request = require('request');
  const fs = require('fs');
 
  //Token
+
  const token = 'image_api';
 
  const options = {
@@ -201,7 +197,6 @@ This endpoint retrieves all uploads.
   success: true,
   code: your_files_code.exenstion,
   url: your_uploaded_files_url_to_access
-
 }
 ```
 
