@@ -7,7 +7,11 @@ language_tabs: # must be one of https://git.io/vQNgJ
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
-  - <a href='https://discordimages.com'>Documentation Powered by Discord Images</a>
+  - <a href='https://discordimages.com/tos'>Terms of Service</a>
+  - <a href='https://discordimages.com/privacy'>Privacy Policy</a>
+  - <a href='https://discordimages.com'>Docs Powered by Discord Images</a>
+ - <a href='https://discord.gg/WdXGj9T'>Support</a>
+ - <a href='https://github.com/iamluca/slate'>Contribute to the Docs.</a>
 
 includes:
   - errors
