@@ -195,7 +195,7 @@ const request = require('request');
 
 > The above command returns JSON structured like this:
 
-```json
+```javascript
 {
   success: true,
   code: your_files_code.exenstion,
